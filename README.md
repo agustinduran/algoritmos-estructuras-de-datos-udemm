@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-Ejercitación dada en la cátedra de Algoritmos y Estructuras de Datos de la Universidad de la Marina Mercante.
+Ejercitación dada en la cátedra de Algoritmos y Estructuras de Datos de la Universidad de la Marina Mercante en la carrera de Ingeniería en Sistemas de Información.
 
 ## Tabla de contenidos
 
